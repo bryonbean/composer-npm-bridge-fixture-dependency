@@ -1,6 +1,6 @@
 {
-    "name": "ezzatron/composer-npm-bridge-fixture-dependency",
+    "name": "bryonbean/composer-npm-bridge-fixture-dependency",
     "require": {
-        "eloquent/composer-npm-bridge": "^4"
+        "bryonbean/composer-npm-bridge": "dev-feature/apiv2"
     }
 }
